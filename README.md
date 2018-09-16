@@ -1,0 +1,2 @@
+# lx-manager
+springboot+mybatis
